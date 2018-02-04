@@ -1,6 +1,6 @@
 # Forest-Ninja
 
-<img src="https://i.imgur.com/NhxmkuS.png" width="1034/2" height="778/2" />
+<img src="https://i.imgur.com/NhxmkuS.png" width="517" height="389" />
 
 **About this game:**
 
