@@ -1,6 +1,6 @@
 # Forest-Ninja
 
-![Forest Ninja](https://i.imgur.com/NhxmkuS.png)
+<img src="https://i.imgur.com/NhxmkuS.png" width="200" height="200" />
 
 **About this game:**
 
